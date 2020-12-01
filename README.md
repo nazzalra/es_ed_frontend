@@ -1,4 +1,4 @@
-# bola-frontend
+# sistempakar-gangguanmakan-frontend
 
 ## Project setup
 ```

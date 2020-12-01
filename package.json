@@ -1,5 +1,5 @@
 {
-  "name": "bola-frontend",
+  "name": "sistempakar-gangguanmakan-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,10 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@ditdot-dev/vue-flow-form": "^1.1.0",
+    "axios": "^0.20.0",
     "core-js": "^3.6.5",
+    "qs": "^6.9.4",
     "vue": "^2.6.11"
   },
   "devDependencies": {
